@@ -75,16 +75,31 @@ Processamento dos dados para transformar em informações relevantes:
   | Dez | 389 |
   | **Total** | **7.633** |
 
+
+<img width="1204" height="588" alt="Faturamento mensal" src="https://github.com/user-attachments/assets/b16cee71-bf21-4ac7-a0b4-b6aa542aa48b" />
+
+
+
+
 - **Vendas por Auto Renewal (Sim/Não):**
   - Sim → 3.786  
   - Não → 3.847  
   - Total → 7.633  
+
+
+<img width="1204" height="583" alt="Vendas por Auto Renewal" src="https://github.com/user-attachments/assets/cbb5bf82-1b08-4d4a-a5ec-660aca2980c6" />
+
+
 
 - **Vendas por tipo de plano (Annual, Monthly, Quarterly):**
   - Annual → 1.754  
   - Monthly → 3.571  
   - Quarterly → 2.308  
   - Total → 7.633  
+
+
+<img width="1211" height="713" alt="Vendas por tipo de planos" src="https://github.com/user-attachments/assets/cf4390ca-a684-48c6-aa92-be6337378d2f" />
+
 
 ---
 
